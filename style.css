@@ -325,6 +325,16 @@ h3{
 }
 
 /* ----- SKILLS ----- */
+
+.skills-titulo{
+    display: flex;
+    justify-content: center;
+    color: #efefef;
+}
+.col{
+    display: flex;
+    margin: auto;
+}
 .skills-box{
     margin: 10px;
 }
